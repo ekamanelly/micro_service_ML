@@ -1,0 +1,7 @@
+NAME        READY   STATUS    RESTARTS   AGE
+predictor   1/1     Running   0          9m5s
+pod/predictor condition met
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+
+
