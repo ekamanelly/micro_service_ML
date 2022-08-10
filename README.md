@@ -1,5 +1,5 @@
 # Template:
-[![<PASSED>](https://circleci.com/github/ekamanelly/micro_service_ML.svg?style=svg)](https://app.circleci.com/pipelines/github/ekamanelly/micro_service_ML)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ekamanelly/micro_service_ML.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ekamanelly/micro_service_ML)
 
 
 
