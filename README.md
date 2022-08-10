@@ -1,4 +1,8 @@
-<include a CircleCI status badge, here>
+# Template:
+[![<PASSED>](https://circleci.com/github/ekamanelly/micro_service_ML.svg?style=svg)](https://app.circleci.com/pipelines/github/ekamanelly/micro_service_ML)
+
+
+
 
 ## Project Overview
 
